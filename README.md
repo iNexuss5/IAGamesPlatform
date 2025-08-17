@@ -5,7 +5,7 @@
 
 [![Ana Carriço](https://img.shields.io/badge/Colaboradora-AnaCarriço-pink)](https://www.linkedin.com/in/ana-carri%C3%A7o-b890ba296/)
 
-# Project Proposal 20 - AI Games Platform
+# Project Proposal 20 - AI Games Platform (July 30, 2025)
 
 This project focuses on implementing a gaming platform where users can compete both against other human players and against artificial intelligence systems.
 The official documentation/report are written in portuguese. 
