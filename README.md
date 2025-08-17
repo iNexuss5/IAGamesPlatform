@@ -1,5 +1,10 @@
 [![Unity](https://img.shields.io/badge/Unity-2022.3.20f1-blue.svg)](https://unity.com/)
 [![Azure](https://img.shields.io/badge/Deployed%20on-Azure-informational.svg)](https://azure.microsoft.com/)
+
+## Colaboradores
+
+[![Ana Carriço](https://img.shields.io/badge/Colaboradora-AnaCarriço-pink)](https://www.linkedin.com/in/ana-carri%C3%A7o-b890ba296/)
+
 # Project Proposal 20 - AI Games Platform
 
 This project focuses on implementing a gaming platform where users can compete both against other human players and against artificial intelligence systems.
