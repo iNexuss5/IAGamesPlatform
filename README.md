@@ -3,7 +3,7 @@
 
 ## Contributors
 
-[![Ana Carriço](https://img.shields.io/badge/Colaboradora-AnaCarriço-pink)](https://www.linkedin.com/in/ana-carri%C3%A7o-b890ba296/)
+[![Ana Carriço](https://img.shields.io/badge/Contributor-AnaCarriço-pink)](https://www.linkedin.com/in/ana-carri%C3%A7o-b890ba296/)
 
 # Project Proposal 20 - AI Games Platform (July 30, 2025)
 
