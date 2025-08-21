@@ -8,7 +8,7 @@
 # AI Games Platform (July 30, 2025)
 
 This project focuses on implementing a gaming platform where users can compete both against other human players and against artificial intelligence systems.
-The official documentation/report are written in portuguese. 
+The complete official documentation and project report are available in in portuguese in the subfolder \Documentation:  
 
 ## How to Test?
 
